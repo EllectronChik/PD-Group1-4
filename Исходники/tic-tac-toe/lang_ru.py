@@ -1,0 +1,15 @@
+game_name_t = 'Крестики-нолики'
+play_t = 'Играть'
+settings_t = 'Настройки'
+quit_t = 'Выйти'
+back_t = 'Вернуться в меню'
+restart_t = 'Рестарт'
+cross_t = 'Крестики'
+nought_t = 'Нолики'
+cross__turn_t = "Сейчас ходит игрок 1(Крестики)"
+nought_turn_t = "Сейчас ходит игрок 2(Нолики)"
+last_winner_t = "Последний победитель" 
+winner_t = 'Победитель'
+resolution_t = 'Разрешение: '
+language_t = 'Язык: '
+fulsize_t = '  Полный экран'

@@ -1,0 +1,15 @@
+game_name_t = 'Tic-tac-toe'
+play_t = '  Play'
+settings_t = '  Settings'
+quit_t = '  Quit'
+back_t = '  Back to menu'
+restart_t = 'Restart'
+cross_t = 'cross'
+nought_t = 'nought'
+cross__turn_t = "Now it's player 1's turn(Cross)"
+nought_turn_t = "Now it's player 2's turn(Nought)"
+last_winner_t = "Last winner" 
+winner_t = 'Winner'
+resolution_t = 'Resolution: '
+language_t = 'Language: '
+fulsize_t = '    FullScreen'
